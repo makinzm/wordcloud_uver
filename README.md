@@ -5,7 +5,7 @@
 ## Description  
   I like UVERworld (the Japanese Rock Band). So I make it to know why I do and introduce you to musics producted by UVERworld.  
 ## Demo  
-![Alt text](ja_wordcloud/wordcloud_en_XXX_.png)  
+![Alt text](ja_wordcloud/wordcloud_ja_XXX_.png)  
 
 ## Other  
 I also wrote an article about this.  

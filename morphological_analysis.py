@@ -37,7 +37,7 @@ for i in list_album:
             if tok.base_form == '*': 
                 word = tok.surface 
             else:
-                word = tok.surface 
+                word = tok.base_form 
 
             ps = tok.part_of_speech 
 

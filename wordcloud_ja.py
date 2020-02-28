@@ -16,4 +16,4 @@ for file in files:
     name = os.path.basename(file)[:-7]
     text = open(file, encoding='utf-8').read()
     wordcloud = WordCloud(background_color='white',font_path=fpath, width=800, height=600, stopwords=set(stop_words)).generate(text)
-    wordcloud.to_file('./ja_wordcloud/wordcloud_en_'+name+'_.png')
+    wordcloud.to_file('./ja_wordcloud/wordcloud_ja_'+name+'_.png')
